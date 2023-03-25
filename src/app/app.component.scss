@@ -1,0 +1,40 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.mat-toolbar{
+
+    background-color: #235347;
+}
+
+.custom-background{
+
+    background-color: #235347;
+}
+
+
+/* Change color of selected mat-option */
+::ng-deep .mat-select-value .mat-select-arrow, ::ng-deep .mat-select-value-text {
+    background-color: #235347;
+}
+
+::ng-deep .mat-select-panel .mat-option.mat-selected:not(.mat-option-multiple) {
+    background-color: #6db4da;
+    color: rgb(35,83,71);
+}
+
+::ng-deep .mat-option:hover:not(.mat-option-disabled) {
+    background-color: #7cbcdf;
+    color: rgb(35,83,71);
+}
+
+.custom-width {
+    width: 80px;
+}
+
+.custom-option {
+    font-size: 12px; 
+    padding: 0px; 
+    margin: 0px; 
+    background-color: #235347;
+}
