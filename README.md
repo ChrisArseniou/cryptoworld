@@ -12,3 +12,5 @@ By clicking one coin, we can see an analytical graph of the price change of the 
 
 
 ![Coin Preview](https://user-images.githubusercontent.com/65454823/227781024-17b9b532-20f9-4d14-b27f-3cec97f2ff85.JPG)
+
+You can preview it here: https://cryptoworld-7b9k.onrender.com
